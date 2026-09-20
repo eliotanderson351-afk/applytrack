@@ -1,17 +1,20 @@
 # ApplyTrack
 
-A privacy-first job application pipeline that runs locally in the browser.
-
-## MVP
-- Kanban stages
-- Add/edit applications
-- Search and filtering
-- Follow-up date and notes
-- LocalStorage persistence
-- Pipeline counts
-
-## Monetization experiment
-Free local board; paid hosted sync, email reminders, resume versions, integrations, analytics, and team/career-coach workspaces later.
+A local job-application pipeline with search, follow-up tracking, notes and browser storage.
 
 ## Run
-Open `index.html`.
+
+Open `index.html` in a modern browser.
+
+## Donation
+
+Donations are optional and help fund design, testing, hosting and future improvements.
+
+| Network | Wallet |
+| --- | --- |
+| BTC | `bc1qghmvawynutlxlzs7hcszwrpmv6a8gjz0g42m5f` |
+| ETH — Ethereum | `0xB2C155514AD2c1383346715B92FcF123A1E1CA3f` |
+| USDT — TRC20 | `TLTPdYMeRfJgaTtVXcpFTF7m5vjJDXp1Uq` |
+| SOL — Solana | `iCi28FGDExvy8tuHw2MP63w26A3uQYHSD1vVqwUjkBg` |
+
+Always verify the asset and network before sending.
